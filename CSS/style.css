@@ -233,6 +233,7 @@ ul {
     left: 50%;
     transform: translateX(-50%);
     color: white;
+    padding: 20px;
 }
 
 .attribution a {
